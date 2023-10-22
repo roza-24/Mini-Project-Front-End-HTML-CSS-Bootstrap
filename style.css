@@ -1,0 +1,94 @@
+body {
+  background-color: rgb(202, 198, 198);
+}
+
+.banner {
+  background: url(foodbg.jpg) no-repeat center;
+  background-size: cover;
+  padding-top: 20%;
+  padding-bottom: 20%;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  color: rgb(27, 26, 26) font;
+}
+
+.navbar-brand {
+  font-size: 20px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.navbar {
+  color: aqua;
+  font-size: 20px;
+}
+
+.navbar-search-input {
+  width: 80%;
+  height: 48px;
+  border-radius: 20px;
+  border: 1.5px solid var(--brand-indigo-marine-000032, #e20914);
+}
+
+.display-6 {
+  color: rgb(160, 32, 32);
+}
+.display-3 {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-size: 40px;
+  color: rgb(160, 32, 32);
+  text-shadow: 10%;
+}
+
+.mt-3 {
+  font-size: 25px;
+  font-weight: 600px;
+  color: #1a1a1a;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+.crop-img {
+  object-fit: cover;
+}
+
+.display-4 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 30px;
+  color: rgb(83, 235, 37);
+}
+
+.chef img {
+  width: 250px;
+  height: 250px;
+  border: 10px solid #797777cc;
+}
+
+a.social {
+  display: inline-block;
+  width: 40px;
+  height: 40px;
+  color: #fff;
+  border-radius: 50%;
+  background-color: #333;
+  line-height: 40px;
+}
+
+a.media {
+  color: rgb(160, 32, 32);
+}
+
+.kontak {
+  background: url(food-background.avif) no-repeat center center;
+  background-size: cover;
+  padding-bottom: 20%;
+  padding-top: 20%;
+  color: #fff;
+  background-color: #333;
+}
+
+.menu {
+  background: url(bgmenu.avif) no-repeat center center;
+  background-size: cover;
+  padding-bottom: 20%;
+  padding-top: 20%;
+  color: #fff;
+  background-color: #333;
+}
